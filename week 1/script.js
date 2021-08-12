@@ -1,1 +1,2 @@
-alert("I'm annoying");
+let a  = "Hello Zufizar Abdumurodova";
+document.write(a);
