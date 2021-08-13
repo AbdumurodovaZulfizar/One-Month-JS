@@ -2,7 +2,7 @@ let username = prompt("What is your name?");
 
 let myWork = new Array("Muslimaat.uz", "Najot Ta'lim", "Nest One")
 
-if (username === "Zulfizar") {
+if (username === "Zulfizar" || username === "Chris") {
   document.write(`<h1>Zulfizar, you will be good person and work at ${myWork[0]}, with this Allah will give you Jannat</h1>`);
 } else {
   document.write(`<h1>Hello ${username}, welcome to our page!</h1>`);
